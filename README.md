@@ -44,7 +44,7 @@ The response included implementing firewall rules, rate limiting, IP verificatio
 ## 📂 Files Included
 
 - `nist-csf-ddos-incident-report.pdf` — Main report following the NIST CSF structure  
-- `supporting-material.pdf` — *(Optional)* Actionable steps for DDoS response
+- `Applying the NIST CSF(supporting-material).pdf` — *(Optional)* Actionable steps for DDoS response
 
 ---
 
